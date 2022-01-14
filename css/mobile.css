@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Lato:wght@300;400;700&display=swap');
+
+/**
+ * L'étoile "*" permet de désigner tous les éléments HTML (div, p, ul, body, li, etc...)
+ */
+* {
+    font-family: 'Arvo', serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+/* Variables */
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --orange: #ff6347;
+    --grey: #797878;
+    --grey-light: #d9d7d7;
+}
